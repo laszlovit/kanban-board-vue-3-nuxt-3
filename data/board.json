@@ -2,49 +2,44 @@
   "name": "task-board",
   "columns": [
     {
-      "id": "38f5876f-7d07-4198-a225-bb5768e21972",
+      "id": "74c49bb3-f5c4-478d-b87a-ca401c5cbe51",
       "name": "todo",
       "tasks": [
         {
-          "id": "bdff8112-257c-495a-a548-d17c6126e101",
-          "name": "task 1",
+          "id": "0335e09e-c472-4d25-a2a4-2673510c379b",
+          "name": "task #1",
           "description": ""
         },
         {
-          "id": "a84bda67-a35c-4121-b88a-680d4d120d59",
-          "name": "task 2",
+          "id": "8a928845-26d0-4462-8ae6-bb7a4b7dc294",
+          "name": "task #2",
           "description": ""
         }
       ]
     },
     {
-      "id": "d1cf5b01-b2de-4ce9-a37c-cda77fcd0971",
+      "id": "46aa0edc-f299-4350-8828-c0017a06a4d5",
       "name": "in-progress",
       "tasks": [
         {
-          "id": "a6327192-c3df-48b8-8a97-152d80e795bc",
-          "name": "task 3",
-          "description": ""
-        },
-        {
-          "id": "1e0b7c84-1e12-40b7-b6da-822cfb82438e",
-          "name": "task 4",
+          "id": "69a1120e-f5e5-437d-9319-f410610a49c8",
+          "name": "task #3",
           "description": ""
         }
       ]
     },
     {
-      "id": "725dce70-c757-4ee3-8257-0acf60ec4bb5",
+      "id": "f1953dbe-b295-48bf-af0c-312d1eaa1c04",
       "name": "complete",
       "tasks": [
         {
-          "id": "824c2430-ce31-492c-b54b-83a9a06fc5cc",
-          "name": "task 5",
+          "id": "6e7ed610-e788-4640-a55c-c96088f4d0d6",
+          "name": "task #4",
           "description": ""
         },
         {
-          "id": "b27f2351-ec8d-4ddb-8c91-593d484482b1",
-          "name": "task 6",
+          "id": "e3ea69ba-9a4f-4164-af74-78b3cfcf8630",
+          "name": "task #5",
           "description": ""
         }
       ]
